@@ -7,3 +7,5 @@ Slideshow: https://docs.google.com/presentation/d/1BKaiLIHGATTS_wh5N0Ta_PqlIqeT1
 potential article 1: https://arxiv.org/pdf/2603.05479
 
 potential article 2: https://arxiv.org/pdf/2303.13012v3
+
+potential article 3: https://arxiv.org/pdf/0801.1261
